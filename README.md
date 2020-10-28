@@ -10,3 +10,9 @@ Stay : Menu stays sebaiknya desainnya diperbaiki lagi seperti pada tombol pencar
 Invoice : Menu invoice sebaiknya desainnya diperbaiki lagi seperti pada tombol pencarian supaya tidak perlu dibuat
 Inbox : Menu inbox sebaiknya dibuat dalam bentuk chatting
 Notifikasi
+
+#Langkah menjalankan :
+1. Masukan/Import database kedalam htdocs xampp dengan nama picasso yang terdapat didalam folder database
+2. Pindahkan folder Testcase-Picasso kedalam xampp/htdocs
+3. Kemudian jalankan sistem tersebut dengan link
+http://localhost:8080/Testcase-Picasso/login.php
